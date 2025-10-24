@@ -1,3 +1,5 @@
 a=int(input())
 b=int(input())
-sum=a+b
+sum=a+bsum=a+b
+
+difference= a-b 
